@@ -1,0 +1,132 @@
+/* GOOGLE FONTS
+font-family: 'Headland One', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Lobster Two', cursive; 
+*/
+
+
+body {
+    background-image: url("https://images.genius.com/fccfa99ae5420dff31ac5141c2c995f3.1000x1000x1.jpg");
+    background-size:100%;
+    
+ }
+
+.jumbotron{
+    margin-top: 32px;
+    background: linear-gradient(to bottom, rgba(102,170,204,.9), rgba(153,102,68,.9)) !important;
+    text-align: center;
+    letter-spacing: -5px !important;
+    height: 1000px;
+}
+
+#j {
+    font-size: 150px;
+    color: black !important;
+}
+
+#asmine {
+    font-size: 100px;
+    color: black !important;
+}
+
+#faveThings {
+    font-size: 30px;
+    font-family: 'Headland One', serif;
+    color: black !important;
+    letter-spacing: -2px !important;
+}
+
+.text-center{
+    font-size: 60px;
+}
+
+.btn-warning {
+    color: #212529;
+    background-color: #ccccbb !important;
+    border-color: #ccccbb !important;
+    font-family: 'Headland One', serif !important; 
+}
+
+.btn-dark {
+    color: #212529 !important;
+    background-color: #ccbb88 !important;
+    border-color: #ccbb88 !important;
+    font-family: 'Headland One', serif !important; 
+}
+
+.closet {
+    background-color: #ccddcc !important;
+    height: 800px;
+    opacity: 0.5;
+}
+
+#joyceManor {
+  height: 230px;
+  position: absolute;
+  top: 447px;
+  left: 247px;
+}
+
+#silverstein {
+  height: 230px;
+  position: absolute;
+  top: 452px;
+  left: 507px;
+}
+  
+#myChemicalRomance {
+    height: 220px;
+    position: absolute;
+    top: 457px;
+    left: 1016px;
+  }
+
+  #jimmyEatWorld {
+    height: 230px;
+    position: absolute;
+    top: 451px;
+    left:762px;
+  }
+
+  #jeans {
+    height: 300px;
+    position: absolute;
+    top: 674px;
+    left: 803px;
+  }
+
+  #jeans2 {
+    height: 300px;
+    position: absolute;
+    top: 670px;
+    left: 557px;
+  }
+
+  #jeans3 {
+    height: 300px;
+    position: absolute;
+    top: 669px;
+    left: 294px;
+  }
+
+  #belt {
+    height: 70px;
+    position: absolute;
+    top: 826px;
+    left: 1089px;
+
+  }
+
+  #vans {
+    height: 70px;
+    position: absolute;
+    top: 695px;
+    left: 1078px;
+  }
+
+  #vans2 {
+    height: 60px;
+    position: absolute;
+    top: 762px;
+    left: 1073px;
+  }
